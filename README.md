@@ -1,4 +1,4 @@
-# GR00T N1.7 × Isaac Sim — Franka 로 학습된 VLA 를 6축 FR5 로 옮기기
+# GR00T N1.7 × Isaac Sim — Franka 로 학습된 VLA 를 6축 FR5 로 옮기기(그리퍼를 수정할 예정입니다.)
 
 MuJoCo/robosuite 의 Franka Emika Panda 로 학습된 GR00T N1.7 을 Isaac Sim 6.0.1 의
 **FAIRINO FR5 (6축) + DH AG-95** 로 옮겨 LIBERO-Spatial 10개 태스크를 실행했다.
